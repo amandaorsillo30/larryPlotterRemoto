@@ -2,4 +2,4 @@
 
 Esta serie de libros cuentan la historia de un hacker de los que hay pocos.
 
-**Amanda Orsillo**, profesor de Git.
+**Fernando Cordon**, profesor Git, de Webs y Apps.
